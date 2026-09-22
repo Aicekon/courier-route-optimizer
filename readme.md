@@ -160,5 +160,6 @@ Python установлен без `tcl/tk`. Переустанови с [python
 
 ---
 
-Демонстрация
-https://github.com/user-attachments/assets/2e6ffe6d-1829-495e-a19f-d6f6d5b080c3
+## 🎥 Демонстрация
+
+![Демонстрация](https://github.com/user-attachments/assets/2e6ffe6d-1829-495e-a19f-d6f6d5b080c3)
